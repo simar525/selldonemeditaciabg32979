@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://selldone.com/shuttle/shop/5306?dashboard=setup/$1"
+ }
+  ]
+}
